@@ -1,0 +1,50 @@
+#content {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#errorTxt {
+	color: red;
+}
+
+li {
+	list-style: none;
+	width: 324px;
+	padding: 10px;
+	border: 1px solid #e2dcdc;
+	cursor: pointer;
+}
+
+.unread {
+	background-color: #e8e6e6;
+}
+
+.composeTable {
+	width: 350px;
+}
+
+.composeTable p {
+	font-size: 12px;
+}
+
+input[type='text'], input[type='password'] {
+	width: 250px;
+	height: 30px;
+}
+
+.dateTxt {
+	font-size: 10px;
+}
+
+.composeTable textarea {
+	width: 250px;
+	height: 150px;
+}
+
+.txtCenter {
+	text-align: center;
+}
+
+hr {
+	border: 1px solid #ccc;
+}
